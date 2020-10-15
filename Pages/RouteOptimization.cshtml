@@ -1,0 +1,73 @@
+@page
+@model RouteOptimizationModel
+@{
+    ViewData["Title"] = "Waste Bin Pickup Route";
+    //Layout = "_";
+}
+@using System.Data;
+
+<div class="container">
+    <style>
+        h1 {
+            text-align: center;
+            margin: 35px;
+        }
+
+        p1 {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        form {
+            text-align: center;
+            margin: 35px;
+        }
+
+    </style>
+    <h1>Waste Bin Pickup Route</h1>
+
+    
+
+    <form method="post" asp-page="Route" class="form">
+        <p1> Please select council: </p1>
+        <input type="radio" class="council" value="banyule" asp-for="@Model.council" />
+        <label for="banyule">Banyule</label>
+
+        <input type="radio" class="council" value="mitchell" asp-for="@Model.council" />
+        <label for="mitchell">Mitchell</label>
+
+        <input type="radio" class="council" value="nillumbik" asp-for="@Model.council" />
+        <label for="nillumbik">Nillumbik</label>
+
+        <input type="radio" class="council" value="whittlesea" asp-for="@Model.council" />
+        <label for="whittlesea">Whittlesea</label>
+
+        <input type="submit" />
+    </form>
+</div>
+<div class="container">
+    @if (Model.IoTData != null)
+    {
+        <div class="row">
+            <div class="embed-responsive embed-responsive-16by9">
+
+                <iframe class="embed-responsive-item"
+                        frameborder="0"
+                        src="@Model.embed"
+                        style="top: 0;
+                        left: 0;
+                        bottom: 0;
+                        right: 0;
+                        width: 100%;
+                        height: 120%;
+                        border: none;
+                        margin: 0;
+                        padding: 0;
+                        overflow: hidden;
+                        z-index: 999999;"
+                        allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+    }
+</div>

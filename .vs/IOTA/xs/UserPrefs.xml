@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4018A38E-F8A1-4FEC-ADF2-0E2FF8946826}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/RouteOptimization.cshtml">
+    <Files>
+      <File FileName="wwwroot/css/homepageStyle.css" Line="159" Column="6" />
+      <File FileName="Pages/Shared/_Layout.cshtml" />
+      <File FileName="Pages/SignLog.cshtml" />
+      <File FileName="wwwroot/css/site.css" />
+      <File FileName="Pages/index.html" />
+      <File FileName="Pages/RouteOptimization.cshtml" Line="63" Column="38" />
+      <File FileName="Pages/RouteOptimization.cshtml.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IOTA PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

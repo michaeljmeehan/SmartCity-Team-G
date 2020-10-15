@@ -1,0 +1,274 @@
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+D:/My WorkSpace/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+D:/My WorkSpace/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/tuji/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/tuji/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/tuji/Desktop/Industry Project/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/TonyGao/Downloads/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/TonyGao/Downloads/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/RouteOptimization.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/michaelmeehan/Desktop/IOTA/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/RouteOptimization.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/michaelmeehan/Desktop/IOTA/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/RouteOptimization.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/mono_crash.11a6748113.0.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/RouteOptimization.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/michaelmeehan/Desktop/IOTA Working BI/IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.csprojAssemblyReference.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfoInputs.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.AssemblyInfo.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.csproj.CoreCompileInputs.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorAssemblyInfo.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.input.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.TagHelpers.output.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorCoreGenerate.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/mono_crash.11a6748113.0.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.deps.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.runtimeconfig.dev.json
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.dll
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.pdb
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.Views.dll
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/bin/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/RouteOptimization.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/SignLog.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.RazorTargetAssemblyInfo.cs
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.Views.pdb
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.genruntimeconfig.cache
+/Users/michaelmeehan/Documents/UNI/Y3/S2/CSE3PRB/Smartcity /IOTA Working BI/obj/Debug/netcoreapp2.2/IOTA.csproj.CopyComplete

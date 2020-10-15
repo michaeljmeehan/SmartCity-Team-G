@@ -1,0 +1,159 @@
+﻿/* Add responsiveness - On small screens, display the navbar vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+    .topnav .login-container {
+        float: none;
+    }
+
+        .topnav a, .topnav input[type=text], .topnav .login-container button {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+        }
+
+    .topnav input[type=text] {
+        border: 1px solid #ccc;
+    }
+}
+
+body {
+    background: #332d2f; /* Background colour */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+/* Heading section */
+/* Welcome to SmartCity IoT + Team G font*/
+
+.mt30 {
+    margin-top: 30px;
+}
+
+h1, h2, h3, h4 {
+    color: #fff;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.welcomeMsg {
+    text-align: center;
+    color: white;
+    align-items: center;
+    text-shadow: 2px 2px black;
+}
+
+
+/* Font formatting for PowerBI/Map links */
+h1, h2 {
+    font-size: 30px;
+}
+
+/* Home section */
+#home {
+    background: url(../images/backgroundEdited.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+
+#home h1,
+#home h3 {
+    line-height: 30px;
+    font-size: 40px;
+}
+
+/* Divider section  */
+.divider {
+    color: #fff;
+    text-align: center;
+}
+
+.col-md-4 col-sm-6{
+    color: white;
+    text-decoration: none;
+}
+
+.divider .fa {
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    font-size: 32px;
+    width: 80px;
+    height: 80px;
+    line-height: 76px;
+    text-transform: capitalize;
+    text-decoration-color: white;
+}
+
+    .divider h2 {
+        padding-bottom: 4px;
+    }
+
+
+    .divider .divider-wrapper {
+        padding: 40px 20px 40px 20px;
+        position: relative;
+        bottom: 40px;
+        transition: all 0.4s ease-in;
+    }
+
+        .divider .divider-wrapper:hover {
+            bottom: 60px;
+            cursor: pointer;
+        }
+
+    .divider .divider-one {
+        background: #c14000;
+    }
+
+    .divider .divider-two {
+        background: #009988;
+    }
+
+    .divider .divider-three {
+        background: #ffa500;
+        text-decoration: none;
+    }
+
+    /* Make text bold on hover  */
+
+    .divider .divider-one:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    .divider .divider-two:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    .divider .divider-three:hover {
+        color: white;
+        text-decoration: none;
+    }
+
+    /*Icon hover*/
+    .divider .fa:hover {
+        border: 2px solid #84DE62;
+        border-radius: 50%;
+        font-size: 45px;
+        width: 80px;
+        height: 80px;
+        line-height: 76px;
+    }
+
+
+.row a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+    .row a:hover {
+        color: white;
+        text-decoration: none;
+        font-size: large;
+    }
